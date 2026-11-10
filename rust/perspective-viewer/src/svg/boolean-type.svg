@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none" stroke="#042121" stroke-width="1" stroke-linecap="round" stroke-linejoin="round">
-    <rect x="1.5" y="3.5" width="10" height="6" rx="3"/>
-    <circle cx="8.4" cy="6.5" r="1.9" fill="#042121" stroke="none"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" fill="none" stroke="#042121" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" viewBox="0 0 13 13"><rect width="10" height="6" x="1.5" y="3.5" rx="3"/><circle cx="8.4" cy="6.5" r="1.9" fill="#042121" stroke="none"/></svg>
